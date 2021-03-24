@@ -1,7 +1,7 @@
 
 Hi, I’m Andrew Culkin (@aculkin)👋  
 
-**👀 I’m interested in:**
+**I’m interested in:**
 - Innovation in the clean energy industry
 - Machine learning
 - Full-stack Web Development
