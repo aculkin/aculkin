@@ -1,10 +1,11 @@
 # Hi, I’m Andrew Culkin (@aculkin)👋  
 
 ## I’m interested in:
-- Innovation in the clean energy industry
 - Distributed Finance (De-fi)
 - Machine learning
 - Full-stack Web Development
+- Prop-tech
+- Innovation in the clean energy industry
 
 ## Technologies I'm proficient with:
 
@@ -42,10 +43,10 @@
 - Salesforce
 
 ## I'm currently working on: 
-- My startup, [Bot Watt](https://www.botwatt.com)
 - A personal project called, [Linksmart](https://www.linksmart.app)
+- [Hover](https://www.hover.to)
 
-## How to reach me**
+## How to reach me:
 
 [My Personal Website](https://www.aculkin.com)
 
